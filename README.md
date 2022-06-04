@@ -18,3 +18,11 @@ Also we added the dataset csv's:
 - game_score_database_no_dup_expanded_genres: the dataset without duplication and with expanded columns of genres(see Data Handling for further explanation)
 - dataframe_for_visual: the dataset we used for the analysis and plotting.
 - dataframe_for_model: the dataset we used on the models
+
+
+To run The project:
+1. Run Step or Run Scraper V4.
+2. Run Step 2.
+3. Run Step 3.
+4. Run Step 4.
+5. Profit.
